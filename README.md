@@ -4,5 +4,5 @@ A simple Calculator Functions and  Design using Netbeans<br>
 ✅ Addition<br>
 ✅ Multiplication<br>
 ✅ Substraction<br>
-✅ Divition<br>
+✅ Division<br>
 ✅ Percentage<br>
