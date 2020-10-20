@@ -134,7 +134,7 @@ public class AboutActivity extends javax.swing.JFrame {
 
         description.setEditable(false);
         description.setBackground(new java.awt.Color(102, 102, 102));
-        description.setText("A simple Calculator Functions and  Design using Netbeans\n✅ Addition\n✅ Multiplication\n✅ Substraction\n✅ Divition\n✅ Percentage");
+        description.setText("A simple Calculator Functions and  Design using Netbeans\n✅ Addition\n✅ Multiplication\n✅ Substraction\n✅ Division\n✅ Percentage");
         dScroll.setViewportView(description);
 
         javax.swing.GroupLayout openSourceLayout = new javax.swing.GroupLayout(openSource);
