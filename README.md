@@ -6,3 +6,6 @@ A simple Calculator Functions and  Design using Netbeans<br>
 ✅ Substraction<br>
 ✅ Division<br>
 ✅ Percentage<br>
+
+# Demo
+![Uploading demo.gif…]()
