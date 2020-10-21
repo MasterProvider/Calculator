@@ -3,7 +3,7 @@
 A simple Calculator Functions and  Design using Netbeans<br>
 ✅ Addition<br>
 ✅ Multiplication<br>
-✅ Substraction<br>
+✅ Subtraction<br>
 ✅ Division<br>
 ✅ Percentage<br>
 
